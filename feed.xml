@@ -3,19 +3,104 @@
     <title>Recoda Docs</title>
     <link href="https://re-co.github.io/recoda-docs/feed.xml" rel="self" />
     <link href="https://re-co.github.io/recoda-docs" />
-    <updated>2023-05-31T15:03:06+02:00</updated>
+    <updated>2023-05-31T21:53:01+02:00</updated>
     <author>
         <name>Renato</name>
     </author>
     <id>https://re-co.github.io/recoda-docs</id>
 
     <entry>
+        <title>Features</title>
+        <author>
+            <name>Renato</name>
+        </author>
+        <link href="https://re-co.github.io/recoda-docs/live-server/"/>
+        <id>https://re-co.github.io/recoda-docs/live-server/</id>
+            <category term="Feature"/>
+
+        <updated>2023-05-31T21:53:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Some of the features inside plugins are: Box Model 🔥 HSL color wheel Blockpad code block editor Custom attributes popup panel Contrast ratio checker Contrast&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Some of the features inside plugins are:<br><br>Box Model  🔥<br><br>HSL color wheel<br><br>Blockpad code block editor<br><br>Custom attributes popup panel</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://re-co.github.io/recoda-docs/media/posts/4/gallery/Recoda20Cover.jpg" data-size="1920x1080"><img loading="lazy" src="https://re-co.github.io/recoda-docs/media/posts/4/gallery/Recoda20Cover-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://re-co.github.io/recoda-docs/media/posts/4/gallery/to-compress.jpg" data-size="1440x1081"><img loading="lazy" src="https://re-co.github.io/recoda-docs/media/posts/4/gallery/to-compress-thumbnail.webp" alt="" width="768" height="577"></a></figure>
+<figure class="gallery__item"><a href="https://re-co.github.io/recoda-docs/media/posts/4/gallery/to-compress1.jpg" data-size="1440x1081"><img loading="lazy" src="https://re-co.github.io/recoda-docs/media/posts/4/gallery/to-compress1-thumbnail.webp" alt="" width="768" height="577"></a></figure>
+<figure class="gallery__item"><a href="https://re-co.github.io/recoda-docs/media/posts/4/gallery/X-mode-v2.jpg" data-size="1439x897"><img loading="lazy" src="https://re-co.github.io/recoda-docs/media/posts/4/gallery/X-mode-v2-thumbnail.webp" alt="" width="768" height="479"></a></figure>
+</div></div>
+<p><br>Contrast ratio checker<br><br>Contrast level color suggestions<br><br>Quick access color and background color<br><br>Structure panel with HTML tags overview<br><br>Actions CLI (add multiple classes, rename multiple, delete multiple classes)<br><br>Custom Grid Guides<br><br>X-mode<br><br>Live server<br><br>Elements filter</p>
+<h2>Right Click Menu</h2>
+<div style="position: relative; padding-top: 56.25%;"><div class="post__iframe"><iframe style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" src="https://iframe.mediadelivery.net/embed/125979/6f3ed1f9-7c83-44da-9053-f0372a9b3317?autoplay=false&amp;loop=true&amp;muted=true&amp;preload=true" loading="lazy" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What is Recoda Workspace?</title>
+        <author>
+            <name>Renato</name>
+        </author>
+        <link href="https://re-co.github.io/recoda-docs/fdsafsda/"/>
+        <id>https://re-co.github.io/recoda-docs/fdsafsda/</id>
+
+        <updated>2023-05-31T20:31:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Recoda Workspace is toolkit for Oxygen Builder. It extends Oxygen Builder with features in areas such as design, code and workflow. One of the core&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/3/Recoda20Cover2.jpg" alt="" width="1920" height="1080" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/3/responsive/Recoda20Cover2-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/3/responsive/Recoda20Cover2-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/3/responsive/Recoda20Cover2-md.webp 768w"></figure>
+<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlJlY29kYSUyMFdvcmtzcGFjZSUyMGlzJTIwdG9vbGtpdCUyMGZvciUyME94eWdlbiUyMEJ1aWxkZXIuJTIwSXQlMjBleHRlbmRzJTIwT3h5Z2VuJTIwQnVpbGRlciUyMHdpdGglMjBmZWF0dXJlcyUyMGluJTIwYXJlYXMlMjBzdWNoJTIwYXMlMjBkZXNpZ24lMkMlMjBjb2RlJTIwYW5kJTIwd29ya2Zsb3cuJTIwJTVDbiU1Q25PbmUlMjBvZiUyMHRoZSUyMGNvcmUlMjBwcmluY2lwbGUlMjBiZWhpbmQlMjBwbHVnaW4lMjBpcyUyMG5vLWxvY2tpbmclMjBkYXRhJTJDJTIwc28lMjB5b3UlMjBjYW4lMjB1bmluc3RhbGwlMjBwbHVnaW4lMjBzYWZlbHklMjBpZiUyMHlvdSUyMGV2ZXIlMjBuZWVkLiUyMCUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmE4NjQ4Mzc3NjYxZTQ5NzFhNGYyOGEwOTJhNGMxOWZlJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMDUwM2ZhN2Y2YjIzNDMxZmE4OTljNmQ5YTA1NmVlODUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI4NmE0MzhkN2VmZWI0NmU0YTIzYzA5NDFlOTRmODE4MCUyMiU3RA==">Recoda Workspace is toolkit for Oxygen Builder. It extends Oxygen Builder with features in areas such as design, code and workflow. </span></p>
+<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlJlY29kYSUyMFdvcmtzcGFjZSUyMGlzJTIwdG9vbGtpdCUyMGZvciUyME94eWdlbiUyMEJ1aWxkZXIuJTIwSXQlMjBleHRlbmRzJTIwT3h5Z2VuJTIwQnVpbGRlciUyMHdpdGglMjBmZWF0dXJlcyUyMGluJTIwYXJlYXMlMjBzdWNoJTIwYXMlMjBkZXNpZ24lMkMlMjBjb2RlJTIwYW5kJTIwd29ya2Zsb3cuJTIwJTVDbiU1Q25PbmUlMjBvZiUyMHRoZSUyMGNvcmUlMjBwcmluY2lwbGUlMjBiZWhpbmQlMjBwbHVnaW4lMjBpcyUyMG5vLWxvY2tpbmclMjBkYXRhJTJDJTIwc28lMjB5b3UlMjBjYW4lMjB1bmluc3RhbGwlMjBwbHVnaW4lMjBzYWZlbHklMjBpZiUyMHlvdSUyMGV2ZXIlMjBuZWVkLiUyMCUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmE4NjQ4Mzc3NjYxZTQ5NzFhNGYyOGEwOTJhNGMxOWZlJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMDUwM2ZhN2Y2YjIzNDMxZmE4OTljNmQ5YTA1NmVlODUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI4NmE0MzhkN2VmZWI0NmU0YTIzYzA5NDFlOTRmODE4MCUyMiU3RA==">One of the core principle behind plugin is no-locking data, so you can uninstall plugin safely if you ever need.</span></p>
+<ol>
+<li>Box Model (6-in-1 panel)</li>
+<li>HSL color wheel</li>
+<li>Blockpad code block editor</li>
+<li>Custom attributes popup panel</li>
+<li>Contrast ratio checker</li>
+<li>Contrast level color suggestions</li>
+<li>Code editor color-picker</li>
+<li>Quick access color and background color</li>
+<li>Structure panel with HTML tags overview</li>
+<li>Grid Guides</li>
+<li>X-mode</li>
+<li>Live server</li>
+<li>Custom CSS draggable window</li>
+<li>Advanced border radius editor</li>
+<li>Advanced icons</li>
+<li>Keyboard shortcuts</li>
+<li>Reset advanced</li>
+<li>Elements filter</li>
+<li>Right click menu</li>
+<li>Class switcher</li>
+<li>Editor tweaks</li>
+<li>Classic UI</li>
+<li>Shortcuts hints</li>
+<li>Code editor font size</li>
+<li>Option labale font size</li>
+<li>Sidebar icons size</li>
+<li>Structure panel spacing</li>
+<li>CLI actions (add multiple classes, rename multiple, delete multiple classes)</li>
+<li>Quick add elements</li>
+<li>Quickflow (generate media query, copy class, copy ID)</li>
+<li>In Editor shortcuts cheatsheet<br><br><br><br><br><br></li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Introduction</title>
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/introduction.html"/>
-        <id>https://re-co.github.io/recoda-docs/introduction.html</id>
+        <link href="https://re-co.github.io/recoda-docs/introduction/"/>
+        <id>https://re-co.github.io/recoda-docs/introduction/</id>
 
         <updated>2023-05-31T15:03:06+02:00</updated>
             <summary></summary>
