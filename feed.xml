@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Recoda Docs</title>
+    <link href="https://re-co.github.io/recoda-docs/feed.xml" rel="self" />
+    <link href="https://re-co.github.io/recoda-docs" />
+    <updated>2023-05-31T15:03:06+02:00</updated>
+    <author>
+        <name>Renato</name>
+    </author>
+    <id>https://re-co.github.io/recoda-docs</id>
+
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Renato</name>
+        </author>
+        <link href="https://re-co.github.io/recoda-docs/introduction.html"/>
+        <id>https://re-co.github.io/recoda-docs/introduction.html</id>
+
+        <updated>2023-05-31T15:03:06+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

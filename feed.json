@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Recoda Docs",
+    "description": "",
+    "home_page_url": "https://re-co.github.io/recoda-docs",
+    "feed_url": "https://re-co.github.io/recoda-docs/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Renato"
+    },
+    "items": [
+        {
+            "id": "https://re-co.github.io/recoda-docs/introduction.html",
+            "url": "https://re-co.github.io/recoda-docs/introduction.html",
+            "title": "Introduction",
+            "author": {
+                "name": "Renato"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-31T14:47:21+02:00",
+            "date_modified": "2023-05-31T15:03:06+02:00"
+        }
+    ]
+}
