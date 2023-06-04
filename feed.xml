@@ -3,7 +3,7 @@
     <title>Recoda Docs</title>
     <link href="https://re-co.github.io/recoda-docs/feed.xml" rel="self" />
     <link href="https://re-co.github.io/recoda-docs" />
-    <updated>2023-06-04T02:23:36+02:00</updated>
+    <updated>2023-06-04T12:27:00+02:00</updated>
     <author>
         <name>Renato</name>
     </author>
@@ -264,7 +264,7 @@
         <link href="https://re-co.github.io/recoda-docs/actions-cli-2/"/>
         <id>https://re-co.github.io/recoda-docs/actions-cli-2/</id>
 
-        <updated>2023-06-03T20:36:16+02:00</updated>
+        <updated>2023-06-04T12:27:00+02:00</updated>
             <summary>
                 <![CDATA[
                     Action or command is the way to automate repeating tasks inside Oxygen Builder. If you need to do anything multiple or apply on multiple this&hellip;
@@ -452,13 +452,20 @@
 </table>
 <p class="sc-fLlhyt dnUYCW msg msg--info"><span class="sc-dkzDqf kSNFbe">If Element is not in supported table, Recoda CLI will create div with custom tag so everything outside table will be DIV element with defined tags like main, aside, etc.</span></p>
 <h2>Watch it in action</h2>
+<p> </p>
 <div data-slate-node="element" data-slate-void="true">
 <div class="sc-ezOQGI edfgIq">
 <div class="sc-cwSeag imynsI">
-<div>
 <div class="sc-bczRLJ kEeNDb">
 <div class="sc-iTONeN jTNbzy">
-<p class="sc-iAvgwm fUsnqc"> </p>
+<h3 class="sc-iAvgwm fUsnqc">Adding elements</h3>
+<div class="post__iframe"><iframe style="width: 100%; max-width: 982px; min-height: 570px;" title="adding elements" src="https://app.gemoo.com/embed/home?codeId=DWN52yGebnwg8" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></div>
+<h3>Adding multiple classes</h3>
+<div class="post__iframe"><iframe style="width: 100%; max-width: 982px; min-height: 570px;" title="adding multiple classes" src="https://app.gemoo.com/embed/home?codeId=P5JxGZ2Bj4Ado" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></div>
+<h3>Multiple classes to multiple elements</h3>
+<div class="post__iframe"><iframe style="width: 100%; max-width: 982px; min-height: 570px;" title="multiple classes to multiple elements" src="https://app.gemoo.com/embed/home?codeId=PYNqxoj62k8OQ" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></div>
+<h3>Rename multiple elements</h3>
+<div class="post__iframe"><iframe style="width: 100%; max-width: 982px; min-height: 570px;" title="rename multiple" src="https://app.gemoo.com/embed/home?codeId=Mpe4e9WgwZ1lm" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></div>
 </div>
 </div>
 <div class="sc-bczRLJ kEeNDb">
@@ -479,7 +486,6 @@
 <div class="sc-bczRLJ kEeNDb">
 <div class="sc-iTONeN jTNbzy">
 <p class="sc-iAvgwm fUsnqc"> </p>
-</div>
 </div>
 </div>
 </div>
