@@ -3,7 +3,7 @@
     <title>Recoda Docs</title>
     <link href="https://docs.recoda.me/feed.xml" rel="self" />
     <link href="https://docs.recoda.me" />
-    <updated>2023-06-04T12:27:00+02:00</updated>
+    <updated>2023-06-04T15:54:30+02:00</updated>
     <author>
         <name>Renato</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://docs.recoda.me/design/"/>
         <id>https://docs.recoda.me/design/</id>
 
-        <updated>2023-06-04T02:08:08+02:00</updated>
+        <updated>2023-06-04T15:52:57+02:00</updated>
             <summary>
                 <![CDATA[
-                    Grid Guides Grid Guide helpers offer you to have a fronted debug tool to evaluate your design. You can customize everything at every breakpoint, so&hellip;
+                    Grid Guides Grid Guide helpers offers you a frontend debug tool to evaluate your design. You can customize everything at every breakpoint, so it fits&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Grid Guides</h2>
-<p>Grid Guide helpers offer you to have a fronted debug tool to evaluate your design.<br>You can customize everything at every breakpoint, so it fits with the grid system from Figma design and makes it easier to transfer the desired design to a real website</p>
+<p>Grid Guide helpers offers you a frontend debug tool to evaluate your design.<br>You can customize everything at every breakpoint, so it fits with the grid system from Figma design and makes it easier to transfer the desired design to a real website.</p>
 <figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/25/grid-guides-v2.jpg" alt="" width="1440" height="897" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/25/responsive/grid-guides-v2-xs.webp 300w ,https://docs.recoda.me/media/posts/25/responsive/grid-guides-v2-sm.webp 480w ,https://docs.recoda.me/media/posts/25/responsive/grid-guides-v2-md.webp 768w"></figure>
 <p><strong>Global options to edit:</strong></p>
 <ul>
@@ -60,7 +60,7 @@
 <p><strong>Supports:</strong><br>     ✅  Auto PX to REM conversion<br>     ✅  CSS variables shorthands <br>     ✅  CSS functions</p>
 <p class="msg msg--info">Find out more about <a href="https://docs.recoda.me/box-model-2/">the box model by clicking here</a>!</p>
 <h2>Live Server:</h2>
-<p>Usually, you open the front-end in a new tab to have a more accurate view of the webpage. And with every save, you need reload that page to see changes, and scroll to the working section.</p>
+<p>Usually, you open the front end in a new tab to have a more accurate view of the webpage. And with every save, you need to reload that page to see changes and scroll to the working section.</p>
 <p><strong>Solution:</strong></p>
 <p>With the Live Server extension, you can open fronted and have auto-reload on every page + it removes the WordPress Admin bar so you can look with less distraction.</p>
 <p>With Recoda Live Server, Oxygen Builder can hot-reload the website front-end. This means that any changes made to the website's design or code will be automatically reflected in the browser without the need for a page refresh.</p>
@@ -625,7 +625,7 @@
         <link href="https://docs.recoda.me/box-model-2/"/>
         <id>https://docs.recoda.me/box-model-2/</id>
 
-        <updated>2023-06-03T13:51:50+02:00</updated>
+        <updated>2023-06-04T15:54:30+02:00</updated>
             <summary>
                 <![CDATA[
                     Everything displayed by CSS is a box. Understanding how the CSS Box Model works is a core foundation of CSS. We can see in the&hellip;
@@ -650,9 +650,7 @@
 <p>Shortcuts (QWERTY):<br>Z - Space<br>X - Border<br>C - Size<br>V - collapse/expand panels</p>
 <p><strong>Supports:</strong><br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">     ✅  Auto PX to REM conversion<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">     ✅  </span>CSS variables shorthands <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">     ✅  </span>CSS functions</p>
 <h3>Freehand drag</h3>
-<p>To undock the panel from the side panel and drag it around the editor, you will need double click on anchor icon. And to dock again, do the same</p>
-<p> </p>
-<p>me action.</p>
+<p>To undock the panel from the side panel and drag it around the editor, you will need double click on the anchor icon. And to dock again, repeat the same action.</p>
 <figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.37.02.png" alt="" width="469" height="318" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-md.webp 768w"></figure>
 <h2>1. Space panel</h2>
 <p>In the image below space panel is shown. You could notice there are 8 spacing controls, four of them are for adjusting margin, and four of them are for adjusting padding. </p>
