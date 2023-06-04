@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Recoda Docs</title>
-    <link href="https://re-co.github.io/recoda-docs/feed.xml" rel="self" />
-    <link href="https://re-co.github.io/recoda-docs" />
+    <link href="https://docs.recoda.me/feed.xml" rel="self" />
+    <link href="https://docs.recoda.me" />
     <updated>2023-06-04T12:27:00+02:00</updated>
     <author>
         <name>Renato</name>
     </author>
-    <id>https://re-co.github.io/recoda-docs</id>
+    <id>https://docs.recoda.me</id>
 
     <entry>
         <title>Design</title>
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/design/"/>
-        <id>https://re-co.github.io/recoda-docs/design/</id>
+        <link href="https://docs.recoda.me/design/"/>
+        <id>https://docs.recoda.me/design/</id>
 
         <updated>2023-06-04T02:08:08+02:00</updated>
             <summary>
@@ -27,7 +27,7 @@
             <![CDATA[
                 <h2>Grid Guides</h2>
 <p>Grid Guide helpers offer you to have a fronted debug tool to evaluate your design.<br>You can customize everything at every breakpoint, so it fits with the grid system from Figma design and makes it easier to transfer the desired design to a real website</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/25/grid-guides-v2.jpg" alt="" width="1440" height="897" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/25/responsive/grid-guides-v2-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/grid-guides-v2-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/grid-guides-v2-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/25/grid-guides-v2.jpg" alt="" width="1440" height="897" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/25/responsive/grid-guides-v2-xs.webp 300w ,https://docs.recoda.me/media/posts/25/responsive/grid-guides-v2-sm.webp 480w ,https://docs.recoda.me/media/posts/25/responsive/grid-guides-v2-md.webp 768w"></figure>
 <p><strong>Global options to edit:</strong></p>
 <ul>
 <li>Color</li>
@@ -42,7 +42,7 @@
 <p class="msg msg--info">Additional resources:<br>- <a href="https://www.wednesday.is/writing-articles/figma-how-to-build-responsive-and-scalable-grids-for-web-design" target="_blank" rel="noopener noreferrer">Fluid and Fixed grids</a></p>
 <h2>X-mode</h2>
 <p id="text_block-120-409" class="ct-text-block visible">X-mode is a grayscale view of your site's canvas that visually displays each element's border. Grayscale helps you evaluate layout at lower fidelity, and border outline on the other side helps you evaluate space between elements and catch elements which are breaking desired design flow.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/25/X-mode-Featured-Image.jpg" alt="" width="1439" height="897" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/25/responsive/X-mode-Featured-Image-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/X-mode-Featured-Image-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/X-mode-Featured-Image-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/25/X-mode-Featured-Image.jpg" alt="" width="1439" height="897" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/25/responsive/X-mode-Featured-Image-xs.webp 300w ,https://docs.recoda.me/media/posts/25/responsive/X-mode-Featured-Image-sm.webp 480w ,https://docs.recoda.me/media/posts/25/responsive/X-mode-Featured-Image-md.webp 768w"></figure>
 <h2>Color tools (video)</h2>
 <p>Powerful color tools that give you feedback about contrast ratio and WCAG level against the current background.</p>
 <p>👇 Check this video below, and find out what is so special about this! 👇</p>
@@ -58,7 +58,7 @@
 <figure class="post__image"><figure class="is-loaded"><img  src="file:///Users/renatocorluka/Documents/Publii/sites/recoda-docs/preview/media/posts/16/box-model-parts.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="file:///Users/renatocorluka/Documents/Publii/sites/recoda-docs/preview/media/posts/16/responsive/box-model-parts-xs.webp 300w, file:///Users/renatocorluka/Documents/Publii/sites/recoda-docs/preview/media/posts/16/responsive/box-model-parts-sm.webp 480w, file:///Users/renatocorluka/Documents/Publii/sites/recoda-docs/preview/media/posts/16/responsive/box-model-parts-md.webp 768w" alt="" width="469" height="276" loading="lazy" sizes="(max-width: 768px) 100vw, 768px" srcset="file:///Users/renatocorluka/Documents/Publii/sites/recoda-docs/preview/media/posts/16/responsive/box-model-parts-xs.webp 300w ,file:///Users/renatocorluka/Documents/Publii/sites/recoda-docs/preview/media/posts/16/responsive/box-model-parts-sm.webp 480w ,file:///Users/renatocorluka/Documents/Publii/sites/recoda-docs/preview/media/posts/16/responsive/box-model-parts-md.webp 768w"></figure></figure>
 <p>Shortcuts (QWERTY):<br>Z - Space<br>X - Border<br>C - Size<br>V - collapse/expand panels</p>
 <p><strong>Supports:</strong><br>     ✅  Auto PX to REM conversion<br>     ✅  CSS variables shorthands <br>     ✅  CSS functions</p>
-<p class="msg msg--info">Find out more about <a href="https://re-co.github.io/recoda-docs/box-model-2/">the box model by clicking here</a>!</p>
+<p class="msg msg--info">Find out more about <a href="https://docs.recoda.me/box-model-2/">the box model by clicking here</a>!</p>
 <h2>Live Server:</h2>
 <p>Usually, you open the front-end in a new tab to have a more accurate view of the webpage. And with every save, you need reload that page to see changes, and scroll to the working section.</p>
 <p><strong>Solution:</strong></p>
@@ -71,14 +71,14 @@
 <p>👇 Watch it in action! 👇</p>
 <h2>HSL color wheel</h2>
 <p>You have a Hue wheel and box with Saturation and Lightness control like shown in the image below: </p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/25/CleanShot-2023-06-04-at-01.20.05.png" alt="" width="276" height="351" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/25/responsive/CleanShot-2023-06-04-at-01.20.05-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/CleanShot-2023-06-04-at-01.20.05-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/CleanShot-2023-06-04-at-01.20.05-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/25/CleanShot-2023-06-04-at-01.20.05.png" alt="" width="276" height="351" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/25/responsive/CleanShot-2023-06-04-at-01.20.05-xs.webp 300w ,https://docs.recoda.me/media/posts/25/responsive/CleanShot-2023-06-04-at-01.20.05-sm.webp 480w ,https://docs.recoda.me/media/posts/25/responsive/CleanShot-2023-06-04-at-01.20.05-md.webp 768w"></figure>
 <h2>Advanced radius editor:</h2>
 <p>Unlocking the full potential of border-radius editing.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/25/Box-Model-Recoda-Docs.webp" alt="" width="319" height="378" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/25/responsive/Box-Model-Recoda-Docs-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/Box-Model-Recoda-Docs-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/Box-Model-Recoda-Docs-md.webp 768w"></figure>
-<p class="msg msg--info">Find out more about <a href="https://re-co.github.io/recoda-docs/box-model-2/">the box model and border edits by clicking here</a>!</p>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/25/Box-Model-Recoda-Docs.webp" alt="" width="319" height="378" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/25/responsive/Box-Model-Recoda-Docs-xs.webp 300w ,https://docs.recoda.me/media/posts/25/responsive/Box-Model-Recoda-Docs-sm.webp 480w ,https://docs.recoda.me/media/posts/25/responsive/Box-Model-Recoda-Docs-md.webp 768w"></figure>
+<p class="msg msg--info">Find out more about <a href="https://docs.recoda.me/box-model-2/">the box model and border edits by clicking here</a>!</p>
 <h2>Blob radius maker:</h2>
 <p>Making blob shapes by tweaking borders has never been easier.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/25/Box-Model-Recoda-Docs-2.webp" alt="" width="334" height="398" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/25/responsive/Box-Model-Recoda-Docs-2-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/Box-Model-Recoda-Docs-2-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/25/responsive/Box-Model-Recoda-Docs-2-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/25/Box-Model-Recoda-Docs-2.webp" alt="" width="334" height="398" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/25/responsive/Box-Model-Recoda-Docs-2-xs.webp 300w ,https://docs.recoda.me/media/posts/25/responsive/Box-Model-Recoda-Docs-2-sm.webp 480w ,https://docs.recoda.me/media/posts/25/responsive/Box-Model-Recoda-Docs-2-md.webp 768w"></figure>
             ]]>
         </content>
     </entry>
@@ -87,8 +87,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/bug-reporting/"/>
-        <id>https://re-co.github.io/recoda-docs/bug-reporting/</id>
+        <link href="https://docs.recoda.me/bug-reporting/"/>
+        <id>https://docs.recoda.me/bug-reporting/</id>
 
         <updated>2023-06-03T13:47:41+02:00</updated>
             <summary>
@@ -103,8 +103,8 @@
 <p>If so, you now understand why we need the following.</p>
 <p class="msg msg--warning">If not, please read these two and get back here after reading them:</p>
 <ul>
-<li><a href="https://re-co.github.io/recoda-docs/compatibility/">Compatibility</a></li>
-<li><a href="https://re-co.github.io/recoda-docs/troubleshooting/">Troubleshooting</a></li>
+<li><a href="https://docs.recoda.me/compatibility/">Compatibility</a></li>
+<li><a href="https://docs.recoda.me/troubleshooting/">Troubleshooting</a></li>
 </ul>
 <h2>TEMPLATE - BUG REPORTING</h2>
 <hr>
@@ -123,8 +123,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/troubleshooting/"/>
-        <id>https://re-co.github.io/recoda-docs/troubleshooting/</id>
+        <link href="https://docs.recoda.me/troubleshooting/"/>
+        <id>https://docs.recoda.me/troubleshooting/</id>
 
         <updated>2023-06-03T13:46:23+02:00</updated>
             <summary>
@@ -155,7 +155,7 @@
 </ul>
 <p><strong>How to clear the server cache?</strong> Sorry, there are too many combinations here, if you don't know how you could do it on your host, please kindly ask hosting support to explain you.</p>
 <h3>Collision with another 3rd party plugin for Oxygen Builder</h3>
-<p>Please see the <a href="https://re-co.github.io/recoda-docs/compatibility/" target="_blank" rel="noopener noreferrer">compatibility page</a> about actions that you can do to prevent this.</p>
+<p>Please see the <a href="https://docs.recoda.me/compatibility/" target="_blank" rel="noopener noreferrer">compatibility page</a> about actions that you can do to prevent this.</p>
 <p>If that doesn't solve the problem, please try disabling features one-by-one and give us the precise source of the problem, if you can't replicate it in that form please provide us with information like an image or screen recording of the issue and try to describe it as much as you can.</p>
 <p class="msg msg--warning"><strong>Problem:</strong> If you don't provide enough data or don't follow procedure, we won't go and guess what scenario you could have on your install because we could never hit.</p>
 <p class="msg msg--success"><strong>Solution:</strong> Please deactivate all 3rd party plugins except Recoda, and try to see if the problem persists. This way we eliminate 3rd party collisions, and if Recoda + Oxygen works, activate plugins one by one and report exactly which combination is causing problems.</p>
@@ -172,8 +172,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/compatibility/"/>
-        <id>https://re-co.github.io/recoda-docs/compatibility/</id>
+        <link href="https://docs.recoda.me/compatibility/"/>
+        <id>https://docs.recoda.me/compatibility/</id>
 
         <updated>2023-06-03T13:47:12+02:00</updated>
             <summary>
@@ -194,11 +194,11 @@
 <h3><br>2.1 Right-click menu</h3>
 <p><strong>Problem manifestation:</strong> When you are doing the right click you could see two context menus, or Editor could stuck due to some problem with overlapping features.</p>
 <p><strong>Cure: </strong>Disable right-click menu feature in other 3rd party plugins, or disable it inside Recoda like shown in the image below:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/22/CleanShot-2023-06-02-at-21.13.38.png" alt="" width="2843" height="1778" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/22/responsive/CleanShot-2023-06-02-at-21.13.38-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/22/responsive/CleanShot-2023-06-02-at-21.13.38-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/22/responsive/CleanShot-2023-06-02-at-21.13.38-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/22/CleanShot-2023-06-02-at-21.13.38.png" alt="" width="2843" height="1778" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/22/responsive/CleanShot-2023-06-02-at-21.13.38-xs.webp 300w ,https://docs.recoda.me/media/posts/22/responsive/CleanShot-2023-06-02-at-21.13.38-sm.webp 480w ,https://docs.recoda.me/media/posts/22/responsive/CleanShot-2023-06-02-at-21.13.38-md.webp 768w"></figure>
 <h3>2.2 Code hints</h3>
 <p><strong>Problem manifestation:</strong> When you are typing code, autocompletion doesn't work as expected, or if you are using emmet shortcuts while typing from another plugin.</p>
 <p><strong>Cure: </strong>Disable code hint/emmet feature in other 3rd party plugins, or disable inside Recoda like shown in the image below:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/22/CleanShot-2023-06-02-at-21.14.55.png" alt="" width="2843" height="1778" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/22/responsive/CleanShot-2023-06-02-at-21.14.55-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/22/responsive/CleanShot-2023-06-02-at-21.14.55-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/22/responsive/CleanShot-2023-06-02-at-21.14.55-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/22/CleanShot-2023-06-02-at-21.14.55.png" alt="" width="2843" height="1778" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/22/responsive/CleanShot-2023-06-02-at-21.14.55-xs.webp 300w ,https://docs.recoda.me/media/posts/22/responsive/CleanShot-2023-06-02-at-21.14.55-sm.webp 480w ,https://docs.recoda.me/media/posts/22/responsive/CleanShot-2023-06-02-at-21.14.55-md.webp 768w"></figure>
             ]]>
         </content>
     </entry>
@@ -207,8 +207,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/developer-docs/"/>
-        <id>https://re-co.github.io/recoda-docs/developer-docs/</id>
+        <link href="https://docs.recoda.me/developer-docs/"/>
+        <id>https://docs.recoda.me/developer-docs/</id>
 
         <updated>2023-06-03T13:47:55+02:00</updated>
             <summary>
@@ -227,8 +227,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/quickflow/"/>
-        <id>https://re-co.github.io/recoda-docs/quickflow/</id>
+        <link href="https://docs.recoda.me/quickflow/"/>
+        <id>https://docs.recoda.me/quickflow/</id>
 
         <updated>2023-06-04T02:23:36+02:00</updated>
             <summary>
@@ -240,17 +240,17 @@
             <![CDATA[
                 <p>Quickflow actions are in editor actions to boost your workflow and make it frictionless. You can find out more about them below:</p>
 <h2>Copy selector</h2>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/20/CleanShot-2023-06-04-at-02.21.42.png" alt="" width="561" height="494" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.21.42-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.21.42-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.21.42-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/20/CleanShot-2023-06-04-at-02.21.42.png" alt="" width="561" height="494" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.21.42-xs.webp 300w ,https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.21.42-sm.webp 480w ,https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.21.42-md.webp 768w"></figure>
 <h2>Generate breakpoint</h2>
 <h3>Below Breakpoint</h3>
 <p>We could generate media query by right-clicking on certain breakpoint inside the Oxygen Builder as shown in the image below:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/20/CleanShot-2023-06-04-at-02.14.22.png" alt="" width="1065" height="753" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.14.22-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.14.22-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.14.22-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/20/CleanShot-2023-06-04-at-02.14.22.png" alt="" width="1065" height="753" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.14.22-xs.webp 300w ,https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.14.22-sm.webp 480w ,https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.14.22-md.webp 768w"></figure>
 <p class="msg msg--info">This is the way Oxygen Builder writes code for breakpoint (desktop first)</p>
 <p>And this is something which we're going to get:</p>
 <pre><code class="language-css">@media screen and ( max-width:  1366px) {</code><br><code class="language-css">  }</code></pre>
 <h3>Above Breakpoint</h3>
 <p>If we hold <code>CMD/CTRL</code> key, we could generate a media query above a certain breakpoint by right-clicking as shown in the image below:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/20/CleanShot-2023-06-04-at-02.18.59.png" alt="" width="961" height="719" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.18.59-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.18.59-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/20/responsive/CleanShot-2023-06-04-at-02.18.59-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/20/CleanShot-2023-06-04-at-02.18.59.png" alt="" width="961" height="719" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.18.59-xs.webp 300w ,https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.18.59-sm.webp 480w ,https://docs.recoda.me/media/posts/20/responsive/CleanShot-2023-06-04-at-02.18.59-md.webp 768w"></figure>
 <p><br>And we're going to get code like this:</p>
 <pre><code class="language-css">@media screen and ( min-width:  1366px) {</code><br><code class="language-css">  }</code></pre>
             ]]>
@@ -261,8 +261,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/actions-cli-2/"/>
-        <id>https://re-co.github.io/recoda-docs/actions-cli-2/</id>
+        <link href="https://docs.recoda.me/actions-cli-2/"/>
+        <id>https://docs.recoda.me/actions-cli-2/</id>
 
         <updated>2023-06-04T12:27:00+02:00</updated>
             <summary>
@@ -499,8 +499,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/accessibility-and-seo-3/"/>
-        <id>https://re-co.github.io/recoda-docs/accessibility-and-seo-3/</id>
+        <link href="https://docs.recoda.me/accessibility-and-seo-3/"/>
+        <id>https://docs.recoda.me/accessibility-and-seo-3/</id>
 
         <updated>2023-06-03T23:42:17+02:00</updated>
             <summary>
@@ -512,7 +512,7 @@
             <![CDATA[
                 <h2>Contrast ratio checker</h2>
 <p>Inside the left sidebar, you will find some of the Recodas color tools. In the picture below you can see two circles which are quick-access tools for the foreground and background color.<br>Below them contrast checking tool is located.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/18/CleanShot-2023-06-03-at-22.40.46.png" alt="" width="1433" height="1140" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-22.40.46-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-22.40.46-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-22.40.46-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/18/CleanShot-2023-06-03-at-22.40.46.png" alt="" width="1433" height="1140" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-22.40.46-xs.webp 300w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-22.40.46-sm.webp 480w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-22.40.46-md.webp 768w"></figure>
 <p class="msg msg--info">The contrast checking tool will indicate the following states:<br>❌ - Failed to meet requirements<br>✔️ - Meets AA level requirement<br>✔️✔️ - Meets AAA level requirement</p>
 <p><strong>What tool takes into account?</strong><br>Element type, font size, font weight, color, background color,</p>
 <p class="msg msg--highlight "><strong>Limitations:</strong><br>Opacity, Gradients, Images. These areas would need direct access to a browser rendering engine or making images and doing pixel-by-pixel calculations to find value.<br>Keep in mind that doing this is far from a trivial task and even dedicated tools for accessibility checking have these limitations also.</p>
@@ -523,7 +523,7 @@
 <blockquote>
 <p class="entry-title">An ounce of prevention is worth a pound of cure.</p>
 </blockquote>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/18/CleanShot-2023-06-03-at-22.59.10.png" alt="" width="333" height="447" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-22.59.10-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-22.59.10-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-22.59.10-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/18/CleanShot-2023-06-03-at-22.59.10.png" alt="" width="333" height="447" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-22.59.10-xs.webp 300w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-22.59.10-sm.webp 480w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-22.59.10-md.webp 768w"></figure>
 <p class="msg msg--info">The contrast checking tool will indicate the following states:<br>❌ - Failed to meet requirements<br>✔️ - Meets AA level requirement<br>✔️✔️ - Meets AAA level requirement</p>
 <h2>Structure manager panel</h2>
 <p>This panel is added by Recoda and it is acting as a popup which you can toggle by pressing Q or clicking on the structure icon in the top left corner of the screen.</p>
@@ -531,14 +531,14 @@
 <p class="msg msg--info">To edit tags, just <strong>double-click</strong> on any tag and that will open the tag editor.</p>
 <h3>Tag view</h3>
 <p>The tag view is something like the usual Oxygen Builder structure view with the addition of the elements tags as shown in the image below:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/18/CleanShot-2023-06-03-at-23.09.02.png" alt="" width="815" height="670" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.09.02-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.09.02-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.09.02-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/18/CleanShot-2023-06-03-at-23.09.02.png" alt="" width="815" height="670" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.09.02-xs.webp 300w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.09.02-sm.webp 480w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.09.02-md.webp 768w"></figure>
 <h3>Inspector view</h3>
 <p>The inspector view is something like the inspector inside the browser dev tools view. It will show the tag, ID, and classes for each element, as shown in the image below:</p>
-<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://re-co.github.io/recoda-docs/media/posts/18/CleanShot-2023-06-03-at-23.23.03.png" alt="" width="591" height="630" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.23.03-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.23.03-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.23.03-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://docs.recoda.me/media/posts/18/CleanShot-2023-06-03-at-23.23.03.png" alt="" width="591" height="630" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.23.03-xs.webp 300w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.23.03-sm.webp 480w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.23.03-md.webp 768w"></figure>
 <h3>Tag editing</h3>
 <p>The quickest way to change tags is to open the tag editor by double-clicking on any tag and then selecting the desired tag.</p>
 <p class="msg msg--info">To edit tags, just <strong>double-click</strong> on any tag and that will open the tag editor.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/18/CleanShot-2023-06-03-at-23.27.33.png" alt="" width="1049" height="723" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.27.33-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.27.33-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.27.33-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/18/CleanShot-2023-06-03-at-23.27.33.png" alt="" width="1049" height="723" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.27.33-xs.webp 300w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.27.33-sm.webp 480w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.27.33-md.webp 768w"></figure>
 <p> </p>
 <h2>Elements filter</h2>
 <p>A feature that will help you filter and easily find code blocks, images, headings and buttons.</p>
@@ -549,13 +549,13 @@
 <li>CSS data present</li>
 <li>JS data present</li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/18/CleanShot-2023-06-03-at-23.32.31.png" alt="" width="407" height="392" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.32.31-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.32.31-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.32.31-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/18/CleanShot-2023-06-03-at-23.32.31.png" alt="" width="407" height="392" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.32.31-xs.webp 300w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.32.31-sm.webp 480w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.32.31-md.webp 768w"></figure>
 <h3>Image</h3>
 <p>Here we can see all the images on the page and we can see does image contain alt attribute:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/18/CleanShot-2023-06-03-at-23.36.10.png" alt="" width="411" height="615" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.36.10-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.36.10-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.36.10-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/18/CleanShot-2023-06-03-at-23.36.10.png" alt="" width="411" height="615" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.36.10-xs.webp 300w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.36.10-sm.webp 480w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.36.10-md.webp 768w"></figure>
 <h3>Heading</h3>
 <p>Here we can see the overview of all heading elements on the page and their levels, we could see quickly if something does not make sense</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/18/CleanShot-2023-06-03-at-23.38.35.png" alt="" width="406" height="643" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.38.35-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.38.35-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/18/responsive/CleanShot-2023-06-03-at-23.38.35-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/18/CleanShot-2023-06-03-at-23.38.35.png" alt="" width="406" height="643" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.38.35-xs.webp 300w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.38.35-sm.webp 480w ,https://docs.recoda.me/media/posts/18/responsive/CleanShot-2023-06-03-at-23.38.35-md.webp 768w"></figure>
             ]]>
         </content>
     </entry>
@@ -564,8 +564,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/code-2/"/>
-        <id>https://re-co.github.io/recoda-docs/code-2/</id>
+        <link href="https://docs.recoda.me/code-2/"/>
+        <id>https://docs.recoda.me/code-2/</id>
 
         <updated>2023-06-03T13:49:43+02:00</updated>
             <summary>
@@ -578,11 +578,11 @@
                 <h2>Blockpad code block editor</h2>
 <p>Having a Codepen-like editor for code blocks? Yay! </p>
 <p>Here at Recoda, we love Codepen, and we think we should have UX to feel at home while writing code. </p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/17/CleanShot-2023-06-02-at-17.36.08.png" alt="" width="2843" height="1778" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/17/responsive/CleanShot-2023-06-02-at-17.36.08-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/17/responsive/CleanShot-2023-06-02-at-17.36.08-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/17/responsive/CleanShot-2023-06-02-at-17.36.08-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/17/CleanShot-2023-06-02-at-17.36.08.png" alt="" width="2843" height="1778" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/17/responsive/CleanShot-2023-06-02-at-17.36.08-xs.webp 300w ,https://docs.recoda.me/media/posts/17/responsive/CleanShot-2023-06-02-at-17.36.08-sm.webp 480w ,https://docs.recoda.me/media/posts/17/responsive/CleanShot-2023-06-02-at-17.36.08-md.webp 768w"></figure>
 <p> </p>
 <h2>Custom CSS window</h2>
 <p>If you like to use custom CSS, you can have always one to write your code. This window will take just a tiny fraction of your screen-estate and you could even undock it from the properties panel and drag it around the screen.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/17/CleanShot-2023-06-02-at-17.24.40.png" alt="" width="936" height="446" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/17/responsive/CleanShot-2023-06-02-at-17.24.40-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/17/responsive/CleanShot-2023-06-02-at-17.24.40-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/17/responsive/CleanShot-2023-06-02-at-17.24.40-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/17/CleanShot-2023-06-02-at-17.24.40.png" alt="" width="936" height="446" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/17/responsive/CleanShot-2023-06-02-at-17.24.40-xs.webp 300w ,https://docs.recoda.me/media/posts/17/responsive/CleanShot-2023-06-02-at-17.24.40-sm.webp 480w ,https://docs.recoda.me/media/posts/17/responsive/CleanShot-2023-06-02-at-17.24.40-md.webp 768w"></figure>
 <p class="msg msg--info"><strong>Wanna unlock even more developer energy?</strong><br>You will have <strong>Codesense</strong> support while you are writing code with CSS props autocomplete, and CSS variable suggestions. Say no more typos!</p>
 <h2>Codesense</h2>
 <p>Codesense is our solution crafted for Oxygen Builder code editing. While nothing beats Oxygen Builder when it comes to coding, this will boost it further.</p>
@@ -611,7 +611,7 @@
 <div class="post__iframe"><iframe style="width: 100%; max-width: 982px; min-height: 570px;" title="design token hints" src="https://app.gemoo.com/embed/home?codeId=vz3o8Y178Nl62" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></div>
 <h3>Step 2: Removing friction</h3>
 <p>In <strong>step 1</strong>, we could see how we could flow data from code to no-code. But why just stop here, why not bring some no-code (GUI) while we are doing stuff?<br><br>We could use things like a color picker inside the code editor, coding can be fun.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/17/CleanShot-2023-06-02-at-18.44.54.gif" alt="" width="800" height="378"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/17/CleanShot-2023-06-02-at-18.44.54.gif" alt="" width="800" height="378"></figure>
 <p> </p>
 <p> </p>
             ]]>
@@ -622,8 +622,8 @@
         <author>
             <name>Renato</name>
         </author>
-        <link href="https://re-co.github.io/recoda-docs/box-model-2/"/>
-        <id>https://re-co.github.io/recoda-docs/box-model-2/</id>
+        <link href="https://docs.recoda.me/box-model-2/"/>
+        <id>https://docs.recoda.me/box-model-2/</id>
 
         <updated>2023-06-03T13:51:50+02:00</updated>
             <summary>
@@ -635,9 +635,9 @@
             <![CDATA[
                 <p>Everything displayed by CSS is a box. Understanding how the CSS Box Model works is a core foundation of CSS. </p>
 <p>We can see in the image below how all elements are boxes. Some of these boxes contain other elements, some are decorative, and some of them contain text and hold valuable information for the visitors.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.36.10.png" alt="" width="2290" height="1599" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.36.10-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.36.10-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.36.10-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.36.10.png" alt="" width="2290" height="1599" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.36.10-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.36.10-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.36.10-md.webp 768w"></figure>
 <p>As we have seen before, we could call everything just a box from a design perspective. <br><br>To understand them in a better fashion, each browser implements Box Model inside dev tools with some crucial information about our boxes that look something like this.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.24.05.png" alt="" width="299" height="241" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.24.05-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.24.05-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.24.05-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.24.05.png" alt="" width="299" height="241" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.24.05-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.24.05-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.24.05-md.webp 768w"></figure>
 <h2>Box Model component</h2>
 <p>To make your life easier we have made a super component inside Oxygen Builder called the Box Model. </p>
 <p>This component is composed of 6-in-1 panels so it could take just a fraction of your screen and provide all needed data.<br><br><strong>There are three main panels:</strong></p>
@@ -646,21 +646,21 @@
 <li><strong>Border</strong> (Edit borders and border-radius)</li>
 <li><strong>Size</strong> (Height, Width, and Overflow control)</li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/box-model-parts.jpg" alt="" width="469" height="276" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/box-model-parts-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/box-model-parts-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/box-model-parts-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/box-model-parts.jpg" alt="" width="469" height="276" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/box-model-parts-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/box-model-parts-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/box-model-parts-md.webp 768w"></figure>
 <p>Shortcuts (QWERTY):<br>Z - Space<br>X - Border<br>C - Size<br>V - collapse/expand panels</p>
 <p><strong>Supports:</strong><br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">     ✅  Auto PX to REM conversion<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">     ✅  </span>CSS variables shorthands <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">     ✅  </span>CSS functions</p>
 <h3>Freehand drag</h3>
 <p>To undock the panel from the side panel and drag it around the editor, you will need double click on anchor icon. And to dock again, do the same</p>
 <p> </p>
 <p>me action.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.37.02.png" alt="" width="469" height="318" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.37.02.png" alt="" width="469" height="318" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.37.02-md.webp 768w"></figure>
 <h2>1. Space panel</h2>
 <p>In the image below space panel is shown. You could notice there are 8 spacing controls, four of them are for adjusting margin, and four of them are for adjusting padding. </p>
 <p>In the middle of the panel you could notice computed size preview. </p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/BOX-MODEL-CONTROLS.jpg" alt="" width="747" height="439" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/BOX-MODEL-CONTROLS-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/BOX-MODEL-CONTROLS-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/BOX-MODEL-CONTROLS-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/BOX-MODEL-CONTROLS.jpg" alt="" width="747" height="439" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/BOX-MODEL-CONTROLS-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/BOX-MODEL-CONTROLS-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/BOX-MODEL-CONTROLS-md.webp 768w"></figure>
 <h3>1.1 Adjusting Values</h3>
 <p>When you click on some of these options, popup panel with adjustment options will be shown and look like this in the picture below:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.40.26.png" alt="" width="469" height="535" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.40.26-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.40.26-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.40.26-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.40.26.png" alt="" width="469" height="535" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.40.26-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.40.26-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.40.26-md.webp 768w"></figure>
 <p><strong>Options are:</strong></p>
 <ol>
 <li>Input for typing scale</li>
@@ -673,7 +673,7 @@
 </ol>
 <h3>1.2 Indications</h3>
 <p>When you click on some of these options, a popup panel with adjustment options will be shown and look like this in the picture below:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/box-model-indications.jpg" alt="" width="1920" height="1080" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/box-model-indications-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/box-model-indications-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/box-model-indications-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/box-model-indications.jpg" alt="" width="1920" height="1080" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/box-model-indications-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/box-model-indications-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/box-model-indications-md.webp 768w"></figure>
 <p>The box model will indicate if the element is styled via ID or class.</p>
 <p>If the element is styled via ID and the class does not have styles on that option, it will show a blue box and indicate that anything that you change won't take effect for that option.</p>
 <p>If you are editing a class and the element is also styled via ID it will strikethrough value which is overridden by ID. </p>
@@ -683,7 +683,7 @@
 <li>Radius (corner) controls</li>
 <li>Border controls (color, style, width)</li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.45.42.png" alt="" width="470" height="275" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.45.42-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.45.42-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.45.42-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.45.42.png" alt="" width="470" height="275" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.45.42-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.45.42-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.45.42-md.webp 768w"></figure>
 <h3>2.1 Radius controls</h3>
 <p>Border radius controls have 3 options like labeled in the picture below: </p>
 <ol>
@@ -691,33 +691,33 @@
 <li>Individual corner radius</li>
 <li>All corner radius</li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.47.27.png" alt="" width="601" height="79" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.47.27-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.47.27-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.47.27-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.47.27.png" alt="" width="601" height="79" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.47.27-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.47.27-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.47.27-md.webp 768w"></figure>
 <h4>2.1.1 Advanced Radius controls</h4>
 <p>Here we have another three options:</p>
 <p><strong>1) Basic edits</strong> will help you turn your element into a blob</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.48.22.png" alt="" width="468" height="557" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.22-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.22-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.22-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.48.22.png" alt="" width="468" height="557" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.22-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.22-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.22-md.webp 768w"></figure>
 <p><strong>2) Advanced edits</strong> will give you full control over the border-radius, so you can nail it. If you go too crazy, to reset to default you can just click on the shape and start tweaking the radius again.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.48.53.png" alt="" width="553" height="656" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.53-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.53-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.53-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.48.53.png" alt="" width="553" height="656" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.53-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.53-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.48.53-md.webp 768w"></figure>
 <p><strong>3) Patterns</strong> hold predefined radius styles</p>
 <h4>2.1.2 Edit individual radius</h4>
 <p>Click on this icon and a popup with individual corner radius controls will open:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.49.28.png" alt="" width="599" height="78" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.49.28-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.49.28-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.49.28-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.49.28.png" alt="" width="599" height="78" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.49.28-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.49.28-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.49.28-md.webp 768w"></figure>
 <p>After clicking you should see a popup panel like this with controls for each corner (top-left, top-right, bottom-left, bottom-right):</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.50.11.png" alt="" width="470" height="170" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.50.11-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.50.11-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.50.11-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.50.11.png" alt="" width="470" height="170" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.50.11-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.50.11-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.50.11-md.webp 768w"></figure>
 <h3>2.2 Border controls</h3>
 <p>Border controls consist of two groups of controls:</p>
 <ol>
 <li>Border to edit (all, top, right, bottom, left)</li>
 <li>Selected border options (color, style, width)</li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.52.32.png" alt="" width="470" height="275" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.52.32-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.52.32-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.52.32-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.52.32.png" alt="" width="470" height="275" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.52.32-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.52.32-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.52.32-md.webp 768w"></figure>
 <p>To edit borders you will need to select desired border from the left option group (all, top, right, bottom, or left) and pick a color, select style and specify width.</p>
 <h3>2.3 Indications</h3>
 <p>The indication system is made to provide rich and logical hints about styles.</p>
 <p>If something is styled via class it will have a green label, and if it is styled via ID label will be blue.</p>
 <p>If value is present there will be a dot before the label and by clicking on the dot you will reset only that value.</p>
 <p>If value is coming from the upper breakpoint you will see underlined label so you can know that you need to go to upper breakpoint to adjust the value.<br><br>In the image below we could see various types of indications, let's see could we identify them:</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.55.12.png" alt="" width="470" height="275" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.55.12-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.55.12-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.55.12-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.55.12.png" alt="" width="470" height="275" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.55.12-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.55.12-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.55.12-md.webp 768w"></figure>
 <p><strong>In the image above we have various types of indications like:</strong></p>
 <ol>
 <li>Radius edit coming from an upper breakpoint (underline), and it is styled via ID (blue label)</li>
@@ -733,7 +733,7 @@
 <li>Height control group (Height, Min Height, Max Height)</li>
 <li>Overflow control group (Visible, Hidden, Scroll)</li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/CleanShot-2023-06-03-at-00.57.21.png" alt="" width="601" height="351" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.57.21-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.57.21-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/CleanShot-2023-06-03-at-00.57.21-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/CleanShot-2023-06-03-at-00.57.21.png" alt="" width="601" height="351" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.57.21-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.57.21-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/CleanShot-2023-06-03-at-00.57.21-md.webp 768w"></figure>
 <h3>3.1 Understanding Width and Height Controls</h3>
 <p>The first two groups controls are Width and Height, and they work with the same logic.</p>
 <p>Priority:</p>
@@ -754,7 +754,7 @@
 </ol>
 <h3>3.2 Indications</h3>
 <p>In the image below we can see some examples of the indications which will this panel provide to you so you could have a better understanding of what is going on with element style.<br>Example shows editing class with an indication of the width styles which are coming from ID and therefore could not be overridden by a class. Height is styled via class, but we can see underlining which tells us that styles are coming from some upper breakpoint.<br>Min and Max Height are values coming from the class and the dot before each label tells us that value is present at this breakpoint. To clear individual values from this breakpoint, we could just click on the dot and values will be cleared.</p>
-<figure class="post__image"><img loading="lazy"  src="https://re-co.github.io/recoda-docs/media/posts/16/size-indications.jpg" alt="" width="1964" height="1148" sizes="(max-width: 768px) 100vw, 768px" srcset="https://re-co.github.io/recoda-docs/media/posts/16/responsive/size-indications-xs.webp 300w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/size-indications-sm.webp 480w ,https://re-co.github.io/recoda-docs/media/posts/16/responsive/size-indications-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://docs.recoda.me/media/posts/16/size-indications.jpg" alt="" width="1964" height="1148" sizes="(max-width: 768px) 100vw, 768px" srcset="https://docs.recoda.me/media/posts/16/responsive/size-indications-xs.webp 300w ,https://docs.recoda.me/media/posts/16/responsive/size-indications-sm.webp 480w ,https://docs.recoda.me/media/posts/16/responsive/size-indications-md.webp 768w"></figure>
 <p> </p>
 <p> </p>
 <p> </p>
